@@ -175,5 +175,5 @@ SeaTunnel enriches the <a href="https://landscape.cncf.io/?landscape=observabili
 Various companies and organizations use SeaTunnel for research, production and commercial products.
 Visit our [website](https://seatunnel.apache.org/user) to find the user page.
 
-## License
+## License test
 [Apache 2.0 License.](LICENSE)
